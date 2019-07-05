@@ -5,4 +5,11 @@ For example, the **general word list** is divided into 182 sessions. Each sessio
 
 | Word List | word count | Voice Gender|Download
 |---|---|---|---|    
-| general word list | 3638|male|
+| general word list | 3638|male|[general_word_list.rar](https://drive.google.com/uc?id=1go_WIvElW_uZ4Fx5cC8mz_o48EPUp1NF&export=download)
+
+### Instructions
+- Download a package for wordlist of your choice.
+- Unpack it to a folder
+- Start you first session by learning all word spellings in `session_01.txt`.
+- For dictation session listen to `session_01.ogg` 
+
